@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "name": "js-build",
+  "version": "1.0.0",
+  "description": "it's a server",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+   "start": "node server.js",
+   "Bhaskar": "node server.js",
+   "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhaskar16-github/Js-Bulid.git"
+  },
+  "author": "Bhaskar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhaskar16-github/Js-Bulid/issues"
+  },
+  "homepage": "https://github.com/bhaskar16-github/Js-Bulid#readme"
+}
